@@ -1,12 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Seppuku",
-            "title": "Seppuku",
-            "version": "20100223",
-            "location": "Seppuku.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Seppuku",
+      "name" : "Seppuku",
+      "version" : "2020-01-01-10-26-56",
+      "location" : "seppuku.json",
+      "priority" : 0
+    }
+  ]
 }
