@@ -7,6 +7,13 @@
       "version" : "2020-01-01-10-26-56",
       "location" : "seppuku.json",
       "priority" : 0
+    },
+    {
+      "title" : "Kami",
+      "name" : "Kami",
+      "version" : "2020-01-02-21-37-46",
+      "location" : "kami.json",
+      "priority" : 0
     }
   ]
 }
