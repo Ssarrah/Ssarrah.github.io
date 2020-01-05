@@ -1,0 +1,10 @@
+{
+  "Name": "FreeCam",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Speed": 1.0,
+  "3D": false,
+  "Packet": true
+}

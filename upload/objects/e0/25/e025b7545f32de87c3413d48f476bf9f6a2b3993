@@ -1,0 +1,13 @@
+{
+  "Name": "ElytraFly",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "VANILLA",
+  "Speed": 1.0,
+  "AutoStart": true,
+  "DisableInLiquid": true,
+  "InfiniteDurability": false,
+  "NoKick": true
+}

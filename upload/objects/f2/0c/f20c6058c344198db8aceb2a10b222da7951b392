@@ -1,0 +1,15 @@
+{
+  "Name": "CrystalAura",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Range": 4.5,
+  "Attack_Delay": 50.0,
+  "Place": true,
+  "Place_Delay": 50.0,
+  "Min_Damage": 1.0,
+  "Ignore": false,
+  "Render": true,
+  "Render_Damage": true
+}

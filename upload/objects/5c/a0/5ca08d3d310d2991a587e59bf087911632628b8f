@@ -1,0 +1,8 @@
+{
+  "Name": "Criticals",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "PACKET"
+}

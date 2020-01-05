@@ -1,0 +1,12 @@
+{
+  "Name": "NoOverlay",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Portal": true,
+  "Helmet": true,
+  "Block": true,
+  "Water": true,
+  "Fire": true
+}

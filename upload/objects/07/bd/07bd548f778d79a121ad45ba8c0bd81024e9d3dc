@@ -1,0 +1,9 @@
+{
+  "Name": "Waypoints",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Tracers": false,
+  "Width": 0.5
+}

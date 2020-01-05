@@ -1,0 +1,11 @@
+{
+  "Name": "Player",
+  "X": 347.0,
+  "Y": 268.0,
+  "W": 100.0,
+  "H": 107.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

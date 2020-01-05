@@ -1,0 +1,9 @@
+{
+  "Name": "AutoCraft",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Drop": false,
+  "Delay": 50.0
+}

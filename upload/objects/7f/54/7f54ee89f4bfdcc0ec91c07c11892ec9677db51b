@@ -1,0 +1,11 @@
+{
+  "Name": "Armor",
+  "X": 427.0,
+  "Y": 240.0,
+  "W": 72.0,
+  "H": 16.0,
+  "Visible": false,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

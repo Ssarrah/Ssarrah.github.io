@@ -1,0 +1,11 @@
+{
+  "Name": "World",
+  "X": 826.0,
+  "Y": 76.0,
+  "W": 100.0,
+  "H": 136.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

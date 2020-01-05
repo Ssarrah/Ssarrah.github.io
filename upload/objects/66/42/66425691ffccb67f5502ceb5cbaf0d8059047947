@@ -1,0 +1,13 @@
+{
+  "Name": "Chams",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Players": true,
+  "Mobs": true,
+  "Animals": true,
+  "Vehicles": true,
+  "Crystals": true,
+  "Mode": "NORMAL"
+}

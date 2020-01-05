@@ -1,0 +1,12 @@
+{
+  "Name": "NoLag",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Light": true,
+  "Signs": false,
+  "Sounds": true,
+  "Pistons": false,
+  "Slimes": false
+}

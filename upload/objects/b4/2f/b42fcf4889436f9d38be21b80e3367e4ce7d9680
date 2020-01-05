@@ -1,0 +1,11 @@
+{
+  "Name": "Movement",
+  "X": 701.0,
+  "Y": 119.0,
+  "W": 100.0,
+  "H": 196.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

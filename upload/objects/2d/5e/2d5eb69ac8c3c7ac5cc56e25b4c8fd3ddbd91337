@@ -1,0 +1,9 @@
+{
+  "Name": "GodMode",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "PORTAL",
+  "FootSteps": false
+}

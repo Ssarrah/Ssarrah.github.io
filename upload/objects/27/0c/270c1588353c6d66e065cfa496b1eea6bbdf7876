@@ -1,0 +1,9 @@
+{
+  "Name": "Scaffold",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Refill": true,
+  "Destroy": false
+}

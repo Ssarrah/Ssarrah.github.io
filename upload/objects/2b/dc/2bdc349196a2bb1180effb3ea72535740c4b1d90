@@ -1,0 +1,11 @@
+{
+  "Name": "Coords",
+  "X": 427.0,
+  "Y": 240.0,
+  "W": 106.0,
+  "H": 9.0,
+  "Visible": false,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

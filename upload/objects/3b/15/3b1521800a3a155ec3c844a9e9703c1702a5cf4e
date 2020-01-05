@@ -1,0 +1,14 @@
+{
+  "Name": "Tracers",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Players": true,
+  "Mobs": true,
+  "Animals": true,
+  "Vehicles": true,
+  "Items": true,
+  "Mode": "TWO_DIMENSIONAL",
+  "Width": 0.5
+}

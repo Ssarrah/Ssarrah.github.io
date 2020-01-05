@@ -1,0 +1,8 @@
+{
+  "Name": "LogoutSpots",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "RemoveDistance": 200
+}

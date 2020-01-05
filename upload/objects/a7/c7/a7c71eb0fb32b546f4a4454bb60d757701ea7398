@@ -1,0 +1,9 @@
+{
+  "Name": "HudEditor",
+  "Color": "FFFFFFFF",
+  "Hidden": true,
+  "Keybind": "GRAVE",
+  "Enabled": false,
+  "Blur": true,
+  "ToolTips": true
+}

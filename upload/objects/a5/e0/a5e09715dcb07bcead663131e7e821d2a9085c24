@@ -1,0 +1,10 @@
+{
+  "Name": "Flight",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "VANILLA",
+  "Speed": 1.0,
+  "NoKick": true
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "PacketLogger",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Incoming": true,
+  "Outgoing": true,
+  "Chat": true,
+  "Console": true,
+  "Data": true
+}

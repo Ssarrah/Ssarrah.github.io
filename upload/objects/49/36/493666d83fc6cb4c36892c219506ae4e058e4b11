@@ -1,0 +1,11 @@
+{
+  "Name": "Hub",
+  "X": 251.0,
+  "Y": 151.0,
+  "W": 100.0,
+  "H": 100.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

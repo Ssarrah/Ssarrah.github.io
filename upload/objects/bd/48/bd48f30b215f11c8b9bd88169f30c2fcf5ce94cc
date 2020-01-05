@@ -1,0 +1,9 @@
+{
+  "Name": "Nuker",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "SELECTION",
+  "Distance": 4.5
+}

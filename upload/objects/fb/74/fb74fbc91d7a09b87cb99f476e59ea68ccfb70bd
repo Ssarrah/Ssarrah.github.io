@@ -1,0 +1,11 @@
+{
+  "Name": "Notifications",
+  "X": 875.0,
+  "Y": 2.0,
+  "W": 83.0,
+  "H": 9.0,
+  "Visible": true,
+  "Anchor": "TOP_RIGHT",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

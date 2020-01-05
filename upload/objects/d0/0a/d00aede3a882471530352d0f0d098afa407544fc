@@ -1,0 +1,11 @@
+{
+  "Name": "Render",
+  "X": 119.0,
+  "Y": 145.0,
+  "W": 100.0,
+  "H": 225.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

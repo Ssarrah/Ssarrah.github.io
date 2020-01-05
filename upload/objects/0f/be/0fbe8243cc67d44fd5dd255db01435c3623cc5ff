@@ -1,0 +1,17 @@
+{
+  "Name": "PortalFinder",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "TWO_DIMENSIONAL",
+  "Chat": true,
+  "Remove": true,
+  "RemoveDistance": 200,
+  "ShowInfo": true,
+  "InfoScale": 1.0,
+  "Width": 0.5,
+  "Red": 255.0,
+  "Green": 255.0,
+  "Blue": 255.0
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "AutoDisconnect",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Health": 8.0
+}

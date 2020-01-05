@@ -1,0 +1,8 @@
+{
+  "Name": "Hud",
+  "Color": "FFFFFFFF",
+  "Hidden": true,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "HidePotions": true
+}

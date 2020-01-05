@@ -1,0 +1,11 @@
+{
+  "Name": "Regen",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "GAPPLE",
+  "Health": 8.0,
+  "Refill": true,
+  "Once": false
+}

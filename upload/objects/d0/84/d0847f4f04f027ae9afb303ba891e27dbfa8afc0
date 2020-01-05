@@ -1,0 +1,9 @@
+{
+  "Name": "Jesus",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "NCP",
+  "Offset": 0.05
+}

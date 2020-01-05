@@ -1,0 +1,9 @@
+{
+  "Name": "Phase",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "SAND",
+  "Floor": true
+}

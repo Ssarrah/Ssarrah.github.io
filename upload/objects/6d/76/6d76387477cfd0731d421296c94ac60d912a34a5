@@ -1,0 +1,11 @@
+{
+  "Name": "Combat",
+  "X": 381.0,
+  "Y": 89.0,
+  "W": 100.0,
+  "H": 147.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

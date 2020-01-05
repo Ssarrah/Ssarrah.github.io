@@ -1,0 +1,11 @@
+{
+  "Name": "Misc",
+  "X": 535.0,
+  "Y": 82.0,
+  "W": 100.0,
+  "H": 354.0,
+  "Visible": true,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

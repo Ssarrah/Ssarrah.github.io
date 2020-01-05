@@ -1,0 +1,9 @@
+{
+  "Name": "Lagger",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "BOXER",
+  "Packets": 500
+}

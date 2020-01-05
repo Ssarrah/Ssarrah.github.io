@@ -1,0 +1,8 @@
+{
+  "Name": "AutoIgnore",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "CLIENT"
+}

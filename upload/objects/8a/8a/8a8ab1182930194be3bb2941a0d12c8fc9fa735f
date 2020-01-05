@@ -1,0 +1,9 @@
+{
+  "Name": "NoCrystal",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Disable": false,
+  "PlaceOnSneak": false
+}

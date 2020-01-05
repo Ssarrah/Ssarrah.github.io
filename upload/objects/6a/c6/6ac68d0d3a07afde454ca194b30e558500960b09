@@ -1,0 +1,11 @@
+{
+  "Name": "RearView",
+  "X": 59.0,
+  "Y": 388.0,
+  "W": 120.0,
+  "H": 120.0,
+  "Visible": false,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

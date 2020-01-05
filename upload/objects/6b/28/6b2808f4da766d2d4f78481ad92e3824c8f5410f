@@ -1,0 +1,13 @@
+{
+  "Name": "CoordLogger",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "VANILLA",
+  "Thunder": true,
+  "EndPortal": true,
+  "Wither": true,
+  "EndDragon": true,
+  "Slimes": false
+}

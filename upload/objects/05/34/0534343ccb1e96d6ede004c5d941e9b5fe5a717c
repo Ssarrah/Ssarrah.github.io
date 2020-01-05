@@ -1,0 +1,9 @@
+{
+  "Name": "AutoArmor",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Delay": 50.0,
+  "Curse": false
+}

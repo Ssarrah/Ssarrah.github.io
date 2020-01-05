@@ -1,0 +1,10 @@
+{
+  "Name": "ChatFilter",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Unicode": true,
+  "Broadcasts": true,
+  "Spam": true
+}

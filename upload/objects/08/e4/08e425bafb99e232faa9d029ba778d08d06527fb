@@ -1,0 +1,11 @@
+{
+  "Name": "NoBiomeColor",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "DEFAULT",
+  "Red": 255.0,
+  "Green": 255.0,
+  "Blue": 255.0
+}

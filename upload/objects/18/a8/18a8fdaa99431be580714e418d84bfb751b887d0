@@ -1,0 +1,11 @@
+{
+  "Name": "ArrayList",
+  "X": 958.0,
+  "Y": 11.0,
+  "W": 0.0,
+  "H": 0.0,
+  "Visible": true,
+  "Anchor": "TOP_RIGHT",
+  "Glue": "Notifications",
+  "GlueSide": "BOTTOM"
+}

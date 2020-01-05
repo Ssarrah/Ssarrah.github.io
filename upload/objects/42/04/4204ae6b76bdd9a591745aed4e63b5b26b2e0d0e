@@ -1,0 +1,12 @@
+{
+  "Name": "Projectiles",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Width": 1.0,
+  "Red": 255.0,
+  "Green": 255.0,
+  "Blue": 255.0,
+  "Alpha": 255.0
+}

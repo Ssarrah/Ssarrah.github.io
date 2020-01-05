@@ -1,0 +1,8 @@
+{
+  "Name": "ShulkerPreview",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "MiddleClick": true
+}

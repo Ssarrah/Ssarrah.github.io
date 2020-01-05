@@ -1,0 +1,11 @@
+{
+  "Name": "Tutorial",
+  "X": 327.0,
+  "Y": 153.5,
+  "W": 200.0,
+  "H": 173.0,
+  "Visible": false,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

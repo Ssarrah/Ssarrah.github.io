@@ -1,0 +1,10 @@
+{
+  "Name": "SpeedMine",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Mode": "PACKET",
+  "Reset": true,
+  "DoubleBreak": false
+}

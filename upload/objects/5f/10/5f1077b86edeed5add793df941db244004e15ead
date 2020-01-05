@@ -1,0 +1,16 @@
+{
+  "Name": "KillAura",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "Players": true,
+  "Mobs": true,
+  "Animals": true,
+  "Vehicles": true,
+  "Projectiles": true,
+  "Range": 4.5,
+  "CoolDown": true,
+  "Sync": true,
+  "Teleport": false
+}

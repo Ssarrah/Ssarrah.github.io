@@ -1,0 +1,11 @@
+{
+  "Name": "ServerBrand",
+  "X": 427.0,
+  "Y": 240.0,
+  "W": 0.0,
+  "H": 0.0,
+  "Visible": false,
+  "Anchor": "NONE",
+  "Glue": "NONE",
+  "GlueSide": "NONE"
+}

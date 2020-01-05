@@ -1,0 +1,12 @@
+{
+  "Name": "NoSlow",
+  "Color": "FFFFFFFF",
+  "Hidden": false,
+  "Keybind": "NONE",
+  "Enabled": false,
+  "SoulSand": true,
+  "Slime": true,
+  "Items": true,
+  "CobWeb": true,
+  "Ice": true
+}
