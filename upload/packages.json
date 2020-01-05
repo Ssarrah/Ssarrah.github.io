@@ -14,6 +14,13 @@
       "version" : "2020-01-05-11-13-35",
       "location" : "kami.json",
       "priority" : 0
+    },
+    {
+      "title" : "Potentia",
+      "name" : "Potentia",
+      "version" : "2020-01-05-12-29-52",
+      "location" : "potentia.json",
+      "priority" : 0
     }
   ]
 }
